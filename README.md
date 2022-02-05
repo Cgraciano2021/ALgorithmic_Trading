@@ -2,7 +2,7 @@
 
 Now, it's time to take what you've learned about Deep Learning and apply it to new situations. For this optional assignment, you'll may pick from two Algorithmic Trading Challenges. Which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your FinTech tool belt.
 
-## Option 2 - Machine Learning Trading Bot
+ ## Option 2 - Machine Learning Trading Bot
 
 **Files:** [Machine Learning Trading Bot](./Instructions/Machine-Learning-Trading-Bot)
 
